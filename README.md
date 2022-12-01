@@ -11,7 +11,7 @@ Feel free to contact me if you have any questions or want to discuss about your 
 
 
 - 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on static HTML & Tailwind project.
-- 💬 Ask me about what do you wanna know about me?
-- 📫 You can reach me via email. My email is : zahinirfaan@gmail.com 
+- 👯 I’m looking to collaborate on static HTML & Tailwind projects.
+- 💬 Ask about me.
+- 📫 You can reach me via email: zahinirfaan@gmail.com 
 
