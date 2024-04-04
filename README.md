@@ -10,8 +10,8 @@ I have a proven track record of delivering high-quality projects on-time , and I
 Feel free to contact me if you have any questions or want to discuss about your project in detail.
 
 
-- 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on static HTML & Tailwind projects.
+- 🌱 I’m currently learning PHP & Laravel.
+- 👯 I’m looking to collaborate on static HTML & Tailwind/Bootstrap projects.
 - 💬 Ask about me.
 - 📫 You can reach me via email: irfanzahinchowdhury32@gmail.com 
 
