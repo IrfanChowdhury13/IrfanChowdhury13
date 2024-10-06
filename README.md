@@ -1,5 +1,4 @@
-# 💫 About Me:
-### Hi there 👋
+# 💫 Hi there 👋
 
 I am a professional Web Developer Irfan Zahin Chowdhury.
 I have been working as a professional web developer since 2017. During this journey, I have learned technologies to build an effective and sustainable website. Also I have worked on various projects, from small businesses to large corporate websites. Plugins and themes for WordPress are something I am familier with as well. I am always interested in learning latest technologies.
